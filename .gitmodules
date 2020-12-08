@@ -1,0 +1,6 @@
+[submodule "src/client/engine/unity/"]
+	path = src/client/engine/unity/
+	url = https://github.com/hsravat-4590/PlayerLink-Unity.git
+[submodule "src/client/engine/unity"]
+	path = src/client/engine/unity
+	url = https://github.com/hsravat-4590/PlayerLink-Unity.git
